@@ -1,0 +1,1 @@
+# GeoMagnify-Local
